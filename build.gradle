@@ -11,4 +11,8 @@ repositories {
 
 dependencies {
     compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.5'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.3.1'
+
+
+
 }
